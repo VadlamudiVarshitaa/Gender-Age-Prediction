@@ -1,5 +1,5 @@
 # Gender-Age-Prediction
-- Download this zip file and extract them into the project folder from the drive link provided https://drive.google.com/file/d/1J0kKyV-mYzZetxiaGOPpdm19CjRpXaJ6/view?usp=drive_link
+Download this zip file and extract them into the project folder from the drive link provided https://drive.google.com/file/d/1J0kKyV-mYzZetxiaGOPpdm19CjRpXaJ6/view?usp=drive_link
   
 
 Gender-Age-Prediction This project leverages machine learning and computer vision techniques to predict the gender and age of individuals from photos. Using Python and OpenCV, the project addresses challenges such as varying lighting conditions and the use of cosmetics. The model is trained to accurately analyze facial features and provide age and gender predictions, making it a useful tool in various applications like social media, security, and customer analytics.
